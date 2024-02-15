@@ -1,0 +1,19 @@
+{
+  "name": "my-ui-library",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "s123tuti <stutisharmaofficial@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/my-ui-library.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/my-ui-library.test.js"
+  }
+}
